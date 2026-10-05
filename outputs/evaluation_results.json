@@ -1,0 +1,27 @@
+{
+  "dataset": {
+    "patients": 20,
+    "orders": 30,
+    "wristband_scans": 30,
+    "benchmark_cases": 20
+  },
+  "multi_identifier_checker": {
+    "tp": 16,
+    "tn": 4,
+    "fp": 0,
+    "fn": 0,
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "benchmark_pass_rate": 1.0,
+  "latency_ms": {
+    "mean": 0.05330999847501516,
+    "max": 0.10870001278817654
+  },
+  "safety_assertions": {
+    "auto_approval_possible": false,
+    "autonomous_treatment_decision": false
+  }
+}

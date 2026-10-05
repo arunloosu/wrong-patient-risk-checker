@@ -1,0 +1,31 @@
+order_id,patient_id,name,dob,location,wristband_id,medicine,urgency
+ORD-2001,PAT-1001,John A. Miller,1965-03-12,Ward-3A Bed-01,WB-1001,Medicine-A,STAT
+ORD-2002,PAT-1002,Jon A. Miller,1965-03-12,Ward-3A Bed-02,WB-1002,Medicine-B,Routine
+ORD-2003,PAT-1003,Maria E. Garcia,1982-11-05,Ward-3B Bed-05,WB-1003,Medicine-C,Routine
+ORD-2004,PAT-1004,Robert Chen,1974-02-18,Ward-2A Bed-04,WB-1004,Medicine-D,Routine
+ORD-2005,PAT-1005,Anita Joseph,1990-07-21,Ward-2A Bed-05,WB-1005,Medicine-E,Routine
+ORD-2006,PAT-1006,Arun Kumar,1985-09-10,Ward-4A Bed-01,WB-1006,Medicine-A,Routine
+ORD-2007,PAT-1007,Aruna Kumar,1985-09-11,Ward-4A Bed-02,WB-1007,Medicine-B,STAT
+ORD-2008,PAT-1008,David Wilson,1958-01-30,Ward-3B Bed-01,WB-1008,Medicine-C,Routine
+ORD-2009,PAT-1009,Meena Ravi,1979-06-14,Ward-3B Bed-02,WB-1009,Medicine-D,Routine
+ORD-2010,PAT-1010,Suresh Raj,1968-12-01,Ward-3B Bed-03,WB-1010,Medicine-E,Routine
+ORD-2011,PAT-1011,Latha Devi,1992-03-17,Ward-1A Bed-01,WB-1011,Medicine-A,Routine
+ORD-2012,PAT-1012,Karthik S,1988-05-22,Ward-1A Bed-02,WB-1012,Medicine-B,Routine
+ORD-2013,PAT-1013,Keerthi S,1988-05-23,Ward-1A Bed-03,WB-1013,Medicine-C,STAT
+ORD-2014,PAT-1014,Michael Brown,1961-08-09,Ward-2B Bed-01,WB-1014,Medicine-D,Routine
+ORD-2015,PAT-1015,Michelle Brown,1962-08-09,Ward-2B Bed-02,WB-1015,Medicine-E,Routine
+ORD-2016,PAT-1016,Priya Nair,1995-10-12,Ward-4B Bed-01,WB-1016,Medicine-A,Routine
+ORD-2017,PAT-1017,Priyanka Nair,1994-10-12,Ward-4B Bed-02,WB-1017,Medicine-B,Routine
+ORD-2018,PAT-1018,Rahul Das,1972-04-19,Ward-5A Bed-01,WB-1018,Medicine-C,Routine
+ORD-2019,PAT-1019,Rahul D,1972-04-20,Ward-5A Bed-02,WB-1019,Medicine-D,STAT
+ORD-2020,PAT-1020,Sneha Paul,1987-12-27,Ward-5A Bed-03,WB-1020,Medicine-E,Routine
+ORD-2021,PAT-1001,John A. Miller,1965-03-12,Ward-3A Bed-01,WB-1001,Medicine-A,Routine
+ORD-2022,PAT-1002,Jon A. Miller,1965-03-12,Ward-3A Bed-02,WB-1002,Medicine-B,Routine
+ORD-2023,PAT-1003,Maria E. Garcia,1982-11-05,Ward-3B Bed-05,WB-1003,Medicine-C,Routine
+ORD-2024,PAT-1004,Robert Chen,1974-02-18,Ward-2A Bed-04,WB-1004,Medicine-D,Routine
+ORD-2025,PAT-1005,Anita Joseph,1990-07-21,Ward-2A Bed-05,WB-1005,Medicine-E,STAT
+ORD-2026,PAT-1006,Arun Kumar,1985-09-10,Ward-4A Bed-01,WB-1006,Medicine-A,Routine
+ORD-2027,PAT-1007,Aruna Kumar,1985-09-11,Ward-4A Bed-02,WB-1007,Medicine-B,Routine
+ORD-2028,PAT-1008,David Wilson,1958-01-30,Ward-3B Bed-01,WB-1008,Medicine-C,Routine
+ORD-2029,PAT-1009,Meena Ravi,1979-06-14,Ward-3B Bed-02,WB-1009,Medicine-D,Routine
+ORD-2030,PAT-1010,Suresh Raj,1968-12-01,Ward-3B Bed-03,WB-1010,Medicine-E,Routine

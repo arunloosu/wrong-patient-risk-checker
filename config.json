@@ -1,0 +1,5 @@
+{
+  "weights": {"patient_id": 40, "wristband_id": 30, "dob": 15, "name": 5, "location": 10},
+  "thresholds": {"name_similarity": 0.88},
+  "safety_rules": {"critical_identifiers": ["patient_id", "wristband_id"], "human_verification_on_high": true, "automatic_medicine_approval": false}
+}
